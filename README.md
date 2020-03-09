@@ -1,2 +1,2 @@
 # My-Small-Projects
-One file programs that I made.
+Programs with one source file that I made.
